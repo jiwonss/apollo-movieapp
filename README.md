@@ -19,17 +19,9 @@
   <ol>
     <li>
       <a href="#프로젝트">프로젝트</a>
-      <ul>
-        <li><a href="#목적">목적</a></li>
-        <li><a href="#설명">설명</a></li>
-        <li><a href="#개발 환경">개발 환경</a></li>
-      </ul>
     </li>
     <li>
       <a href="#사용법">사용법</a>
-      <ul>
-        <li><a href="#기능">기능</a></li>
-      </ul>
     </li>
     <li>
       <a href="#로드맵">로드맵</a>
@@ -42,33 +34,49 @@
 ## 프로젝트
 <br>
 
+<!-- ![apollo_movie_app_detail](https://user-images.githubusercontent.com/72875528/148085730-abb543fe-386a-4911-8e59-e83961fd7109.PNG)
+![apollo_movie_app_like_unlike](https://user-images.githubusercontent.com/72875528/148085733-853cbb02-4364-4a6c-8a87-1445fd5885f8.PNG)
+![apollo_movie_app_main](https://user-images.githubusercontent.com/72875528/148085741-b2e136c7-d69d-4fc6-b64b-ef66f16de0dc.PNG) -->
+
 <div align="center">
+ 
+  
+  <img src="https://user-images.githubusercontent.com/72875528/148085741-b2e136c7-d69d-4fc6-b64b-ef66f16de0dc.PNG" width="50%">
   <br>
   [메인 페이지]
+    
+  <br>
+  <br>
+
+  |-|-|
+  |:---:|---|
+  |**목적**|Nomad Coders - GraphQL로 영화 웹 앱 만들기|
+  |**설명**|GraphQL로 영화 웹 앱 만들기|
+  |**개발환경**|React, GraphQL, Apollo, React Router|
+  |**구현기능**|Replace Redux, Replace Fetch, Get Movies, See Movie, Add to Favorites|
+
 </div>
 
-### 목적
-  
-Nomad Coders - GraphQL로 영화 웹 앱 만들기
-
-### 설명
-
-Movie app built with React, Apollo and GraphQL
-
-### 개발 환경
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE -->
 ## 사용법
 
-### 기능
+<div align="center">
+  
+  |-|-|
+   |:---:|:---:|
+  |**Detail**|<img src="https://user-images.githubusercontent.com/72875528/148085730-abb543fe-386a-4911-8e59-e83961fd7109.PNG" width="80%">|
+  |**Like/Unlike**|<img src="https://user-images.githubusercontent.com/72875528/148085733-853cbb02-4364-4a6c-8a87-1445fd5885f8.PNG" width="80%">|
+</div>
+  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
 ## 로드맵
-- [ ] README 수정
+- [X] README 수정
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
